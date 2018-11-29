@@ -1,3 +1,3 @@
 # tutu
-record myself life 
+Record myself life 
 include read、something、somebody、anything ……
